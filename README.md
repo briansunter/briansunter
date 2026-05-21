@@ -26,8 +26,6 @@ I build tools I want to use, then write about them at [briansunter.com](https://
 ## Start here
 
 - 🃏 **[anki-ai](https://github.com/briansunter/anki-ai)** is a CLI and MCP server that gives Claude 45 Anki tools: generate cards from text, audit decks, reschedule failures, read your review history.
-- 📚 **[Caliber](https://github.com/briansunter/caliber)** is a high performance web reader for your Calibre library. Cursor pagination and virtualized lists keep it quick even on million-book collections.
-- 🍳 **[Cooklang Parser](https://github.com/briansunter/cooklang-parse)** is the TypeScript parser for Cooklang, the plain-text recipe language.
 - 🃏 **[ConvoCards](https://convo.cards)** is a deck of conversation starters you swipe through like real cards (Next.js, Prisma, Stripe).
 - 🕰️ **[CuckooTimer](https://cuckootimer.com)** is a 3D cuckoo clock that lives in your macOS menu bar and gently reminds you of time passing.
 - ✏️ **[Trace Overlay](https://traceoverlay.com)** lets you trace any reference image right on your phone or tablet screen.
