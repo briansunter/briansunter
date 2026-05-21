@@ -32,6 +32,9 @@ I build tools I want to use, then write about them at [briansunter.com](https://
 - 🕰️ **[CuckooTimer](https://cuckootimer.com)** is a 3D cuckoo clock that lives in your macOS menu bar and gently reminds you of time passing.
 - ✏️ **[Trace Overlay](https://traceoverlay.com)** lets you trace any reference image right on your phone or tablet screen.
 - 🤖 **[logseq-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai)** wires OpenAI models into the Logseq editor: type a prompt in a block, get the completion back in place.
+- 📶 **[Yuptime](https://github.com/briansunter/yuptime)** is a Kubernetes-native uptime monitor where monitors are CRDs and each check runs in a throwaway Job pod.
+- 📧 **[Subs](https://github.com/briansunter/subs)** is an email-signup API that writes straight to a Google Sheet. Turnstile blocks the bots, and there's no database to run.
+- ☁️ **[Oracle World](https://github.com/briansunter/oracle-world)** is a set of OpenTofu modules for Oracle Cloud's Always Free tier. One `apply` gives you a 4-core ARM box with 24 GB RAM.
 
 ## Projects
 
