@@ -27,7 +27,7 @@ I build tools I want to use, then write about them at [briansunter.com](https://
 
 - 🃏 **[anki-ai](https://github.com/briansunter/anki-ai)** is a CLI and MCP server that gives Claude 45 Anki tools: generate cards from text, audit decks, reschedule failures, read your review history.
 - 📚 **[Caliber](https://github.com/briansunter/caliber)** is a high performance web reader for your Calibre library. Cursor pagination and virtualized lists keep it quick even on million-book collections.
-- 🍳 **[cooklang-ts](https://github.com/cooklang/cooklang-ts)** is the TypeScript parser for Cooklang, the plain-text recipe language.
+- 🍳 **[Cooklang Parser](https://github.com/briansunter/cooklang-parse)** is the TypeScript parser for Cooklang, the plain-text recipe language.
 - 🃏 **[ConvoCards](https://convo.cards)** is a deck of conversation starters you swipe through like real cards (Next.js, Prisma, Stripe).
 - 🕰️ **[CuckooTimer](https://cuckootimer.com)** is a 3D cuckoo clock that lives in your macOS menu bar and gently reminds you of time passing.
 - ✏️ **[Tracer](https://traceoverlay.com)** lets you trace any reference image right on your phone or tablet screen.
@@ -101,7 +101,7 @@ I build tools I want to use, then write about them at [briansunter.com](https://
 - 🍕 **[Pizza Plan](https://getpizzaplan.com)** is a pizza-dough calculator that works backward from when you want to eat.
 - ☕ **[Vibe Cafe](https://loficafe.briansunter.com/)** is a lofi coding room with ambient beats and streaming terminal diffs.
 - 🗺️ **[Wikipedia 3D Embeddings](https://briansunter.github.io/wikipedia-3d-embeddings/)** projects thousands of Wikipedia articles into 3D with UMAP so you can fly through them.
-- 🍳 **[cooklang-ts](https://github.com/cooklang/cooklang-ts)** is the TypeScript parser for the Cooklang recipe language.
+- 🍳 **[Cooklang Parser](https://github.com/briansunter/cooklang-parse)** is the TypeScript parser for the Cooklang recipe language.
 
 ## What I'm up to
 
