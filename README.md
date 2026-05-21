@@ -30,7 +30,8 @@ I build tools I want to use, then write about them at [briansunter.com](https://
 - 🍳 **[Cooklang Parser](https://github.com/briansunter/cooklang-parse)** is the TypeScript parser for Cooklang, the plain-text recipe language.
 - 🃏 **[ConvoCards](https://convo.cards)** is a deck of conversation starters you swipe through like real cards (Next.js, Prisma, Stripe).
 - 🕰️ **[CuckooTimer](https://cuckootimer.com)** is a 3D cuckoo clock that lives in your macOS menu bar and gently reminds you of time passing.
-- ✏️ **[Tracer](https://traceoverlay.com)** lets you trace any reference image right on your phone or tablet screen.
+- ✏️ **[Trace Overlay](https://traceoverlay.com)** lets you trace any reference image right on your phone or tablet screen.
+- 🤖 **[logseq-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai)** wires OpenAI models into the Logseq editor: type a prompt in a block, get the completion back in place.
 
 ## Projects
 
@@ -84,7 +85,7 @@ I build tools I want to use, then write about them at [briansunter.com](https://
 - 🌲 **[Obsidian Data Editor](https://github.com/briansunter/obsidian-data-editor)** 🚧 opens `.json` and `.yaml` in a visual tree editor, with schema validation and a source mode.
 - 💡 **[Obsidian Insights](https://github.com/briansunter/obsidian-insights)** 🚧 surfaces live AI writing insights, connections, and counter-arguments as you write.
 - ✅ **[Obsidian Schema](https://github.com/briansunter/obsidian-schema)** 🚧 validates note frontmatter against JSON Schema and reports problems in a sidebar.
-- 🤖 **[Logseq GPT-3 Plugin](https://github.com/briansunter/logseq-plugin-gpt3-openai)** wires OpenAI text models into the Logseq editor.
+- 🤖 **[logseq-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai)** wires OpenAI text models into the Logseq editor.
 - 🔌 **[Logseq MCP](https://www.npmjs.com/package/logseq-mcp)** hooks Claude into your Logseq graph: search blocks, draft daily notes, run Datalog.
 - 📤 **[BlogSeq](https://github.com/briansunter/blogseq)** exports a Logseq page to clean Markdown and bundles every referenced asset alongside it.
 - 📺 **[Logseq YouTube Captions](https://github.com/briansunter/logseq-get-youtube-captions)** grabs the captions for any YouTube link and pastes the transcript in place.
@@ -92,7 +93,7 @@ I build tools I want to use, then write about them at [briansunter.com](https://
 ### 🌐 Web apps & experiments
 
 - 🃏 **[ConvoCards](https://convo.cards)** is a swipeable deck of conversation starters (Next.js, Prisma, Stripe).
-- ✏️ **[Tracer](https://traceoverlay.com)** lets you trace any reference image right on your phone or tablet screen.
+- ✏️ **[Trace Overlay](https://traceoverlay.com)** lets you trace any reference image right on your phone or tablet screen.
 - 🖼️ **[Moodboard](https://moodboard.briansunter.com)** is an infinite-canvas moodboard with sticky notes and images.
 - ✉️ **[PostcardPop](https://postcardpop.briansunter.com/)** lets you make and share digital postcards with map stamps and a copyable link.
 - ⚡ **[SReader](https://sreader.briansunter.com)** is an RSVP speed reader that flashes one word at a time.
