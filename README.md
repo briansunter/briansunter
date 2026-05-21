@@ -15,6 +15,7 @@ I build tools I want to use, then write about them at [briansunter.com](https://
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ## Start here
